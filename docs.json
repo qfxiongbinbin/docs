@@ -11,34 +11,21 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "用户帮助手册",
         "groups": [
           {
             "group": "Get Started",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "user-guide-doc",
             ]
           }
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "API 接口文档",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "API 接口文档",
             "pages": [
               "api-reference/introduction"
             ]
